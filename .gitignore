@@ -21,4 +21,4 @@ yarn-error.log*
 *.sw?
 
 # App configuration
-public/config.yml
+public/assets/config.yml
