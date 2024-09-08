@@ -10,7 +10,7 @@ COPY . .
 RUN yarn build
 
 # production stage
-FROM alpine:3.11
+FROM alpine:3.19.4
 
 ENV USER darkhttpd
 ENV GROUP darkhttpd
